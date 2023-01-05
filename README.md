@@ -8,7 +8,7 @@ while following [Lakshay](https://www.linkedin.com/in/lakshayk12/) bhaiya's SQL 
 How to use:-
 --
 If anyone wants to follow the same, you can use this as a helper repository. <br/>
-Copy the HTTPS code of the repository and run `git clone <copied_code>`. <br/>
+Copy the HTTPS code of the repository and run `git clone <copied_code>` at the required directory. <br/>
 Now open your **SQL client software application**, set an active connection and run those files in order upto 8th one. <br/>
 You may create the database first (Sometimes, it's required). Don't worry, these codes will work fine (as `DROP DATABASE IF EXISTS` will be executed first).<br/>
 9th file contains all the commands stated in the videos. Run them as the course goes on.
